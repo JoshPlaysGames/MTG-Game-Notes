@@ -33,7 +33,7 @@ _Out: I'm pretty meh on Geist as it seems like the UW deck is going to be slower
 
 ### In: Miscalculation
 
-Feels good in both tempo based U decks as well as control based U decks. I feel like you put in Memory Lapse over this (which I actually thing was great).
+Feels good in both tempo based U decks as well as control based U decks. I feel like you put in Memory Lapse over this (which I actually think was great).
 _Out: I actually think Gush doesn't have a lot of support in your cube, and aside from a "free spell on the turn storm is going off" it feels weak. If you wanted to cut a counterspell I would play this over Negate_
 
 I would also play Gitaxian Probe for the free spell slot over gush, and let you know if it's safe to go for a combo.
@@ -53,7 +53,7 @@ These are mostly cards that I think are stronger than the cards in the cube curr
  * Fable of the Mirror Breaker
  * Solitude
  * Crop Rotation
- * Sheoldrid the Apocolypse
+ * Sheoldrid the Apocalypse
  * Endurance
  * Unholy Heat
  * Light up the Stage
@@ -66,3 +66,4 @@ In: Murder, Out: Heartless Act
 In: Fatal Push, Out: Infernal Grasp
 In: Goldspan Dragon > Glorybringer, Out: Thundermaw Hellkit
 In: Consider, Out: Opt
+
